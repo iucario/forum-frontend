@@ -2,7 +2,7 @@
 
 A simple frontend for https://github.com/iucario/java-spring-forum
 
-Created with TypeScript, NextJS, Tailwind CSS, React.
+Created with TypeScript, Next.js, Tailwind CSS, React.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

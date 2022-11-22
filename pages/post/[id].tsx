@@ -76,7 +76,7 @@ export default function Post() {
             {postDetail.comments.map((x, i) => (
               <Comment
                 comment={x}
-                index={SIZE * parseInt(page) + i + 1}
+                index={SIZE * (parseInt(page) - 1) + i + 1}
                 key={x.id}
               />
             ))}
